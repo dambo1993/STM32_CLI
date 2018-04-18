@@ -1,0 +1,14 @@
+CLI_modules.c:53:8:wyszukaj_w_tabeli_parametrow	32	static
+CLI_modules.c:68:6:GPIO_set_output	24	static
+CLI_modules.c:81:9:GPIO_read_input	16	static
+CLI_modules.c:87:6:init_ADC_single	8	static
+CLI_modules.c:112:10:CLI_ADC_pomiar	16	static
+CLI_modules.c:129:6:CLI_GPIO_init	32	static
+CLI_modules.c:234:6:CLI_GPIO_out	32	static
+CLI_modules.c:277:6:CLI_GPIO_in	32	static
+CLI_modules.c:326:6:CLI_ADC_init	16	static
+CLI_modules.c:340:6:CLI_ADC_start	32	static
+CLI_modules.c:360:6:CLI_ADC_start_v	24	static
+CLI_modules.c:383:6:CLI_ADC_set_A	16	static
+CLI_modules.c:396:6:CLI_ADC_set_B	16	static
+CLI_modules.c:410:6:CLI_ADC_get_AB	16	static

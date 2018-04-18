@@ -1,0 +1,4 @@
+common.c:25:6:odeslij_ok	8	static
+common.c:30:6:odeslij_error	8	static
+common.c:36:6:przywitanie_no_AT	8	static
+common.c:42:6:error	16	static

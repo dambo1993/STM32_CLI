@@ -1,0 +1,14 @@
+core_cm0.h:629:22:NVIC_EnableIRQ	16	static
+uart.c:30:6:uart_register_rx_callback	16	static
+uart.c:35:6:USART1_IRQHandler	16	static
+uart.c:122:6:uart_event_check	8	static
+uart.c:135:9:uart_odebrano_linie	8	static
+uart.c:144:6:uart_pobierz_linie	32	static
+uart.c:159:6:uart_wyslij_znak	24	static
+uart.c:187:6:uart_wyslij_lancuch	24	static
+uart.c:194:6:uart_wyslij_lancuch_r	24	static
+uart.c:202:6:uart_wyslij_lancuch_rn	24	static
+uart.c:212:9:uart_odbior_sprawdz	8	static
+uart.c:220:9:uart_pobierz_znak	8	static
+uart.c:237:6:uart_wyslij_liczbe	40	static
+uart.c:244:6:init_uart	24	static

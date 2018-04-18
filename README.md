@@ -5,7 +5,7 @@ Projekt umożliwia sterowanie podstawowymi funkcjami mikrokontrolerów STM32 z p
 ## Zawartość repozytorium
 
 W repozytorium znajdziemy:
-* projekt dla STM32F0 z uartem skonfigurowanym na piny PA2 i PA3 i prędkości 115200
+* projekt (Atollic) dla STM32F0 z uartem skonfigurowanym na piny PA2 i PA3 i prędkości 115200
 * jak dokończę konsolkę to dodam plik przycisków do niej do łatwego sterowania
 
 ### Dostępne komendy

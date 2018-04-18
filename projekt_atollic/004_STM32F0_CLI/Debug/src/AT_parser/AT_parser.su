@@ -1,0 +1,4 @@
+AT_parser.c:13:6:AT_register_AT_commands_table	16	static
+AT_parser.c:29:6:AT_register_no_AT_commands_table	16	static
+AT_parser.c:40:6:AT_register_error_function	16	static
+AT_parser.c:48:6:AT_commands_decode	40	static
